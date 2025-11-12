@@ -14,6 +14,6 @@
 
 ---
 
-SIH25013: Real-Time Public Transport Tracking for Small Cities
-
 # 🔗 Repo Link: [BusTrackr](https://github.com/DevStorm9833/BusTrackr)
+
+## SIH25013: Real-Time Public Transport Tracking for Small Cities
